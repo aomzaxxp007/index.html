@@ -64,7 +64,7 @@
 
     <!-- ===== แก้ลิงก์ของคุณ (เปลี่ยน your-username เป็นชื่อผู้ใช้จริง) ===== -->
     <div class="links">
-      <a href="https://github.com/your-username" target="_blank" rel="noopener">GitHub ของฉัน</a>
+      <a href="https://github.com/aomzaxxp007" target="_blank" rel="noopener">GitHub ของฉัน</a>
     </div>
 
     <footer>สร้างด้วย GitHub Pages · Special Topic 1</footer>
